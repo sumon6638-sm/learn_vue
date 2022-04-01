@@ -1,4 +1,4 @@
-const app = Vue.createApp({
+/* const app = Vue.createApp({
     data() {
         return {
             welcomeMessage: "Welcome to my World",
@@ -21,6 +21,4 @@ const app = Vue.createApp({
     },
 });
 
-
-
-app.mount('#user-goal');
+app.mount('#user-goal'); */
